@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+CessationTemp	DateFin	RUB+		DateFin est une nouvelle rubrique
+CessationTemp	DateDebut	RUB-		la clé DateDebut est supprimée

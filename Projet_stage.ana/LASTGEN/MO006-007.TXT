@@ -1,0 +1,9 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Sanction		TAR	98	nouvelle taille enregistrement : 98
+Sanction	IDEmploye	RUB+		IDEmploye est une nouvelle clé
+Sanction	DateFin	RUB+		DateFin est une nouvelle rubrique
+Sanction	DateDebut	RUB+		DateDebut est une nouvelle rubrique
+Sanction_Employe		FIC-	Sanction_Employe	Fichier supprimé Sanction_Employe
+Contrainte_Employe_Sanction		NWL	Employe (IDEmploye) et Sanction (IDEmploye)	Nouvelle liaison entre les fichiers Employe (IDEmploye) et Sanction (IDEmploye)
+Contrainte_Sanction_Employe		DEL	Sanction (IDSanction) et Sanction_Employe (IDSanction)	Liaison supprimée entre les fichiers Sanction (IDSanction) et Sanction_Employe (IDSanction)
+Contrainte_Employe_Sanction		DEL	Employe (IDEmploye) et Sanction_Employe (IDEmploye)	Liaison supprimée entre les fichiers Employe (IDEmploye) et Sanction_Employe (IDEmploye)

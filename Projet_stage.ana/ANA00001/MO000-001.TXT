@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Employe		NFI		nouveau fichier
+MaConnexion		CNX+		
+Connexion à '127.0.0.1'		CNX+		

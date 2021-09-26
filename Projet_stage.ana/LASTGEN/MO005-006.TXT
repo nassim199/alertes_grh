@@ -1,0 +1,27 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Employe		TAR	275	nouvelle taille enregistrement : 275
+Employe	DateEmb	RUB+		DateEmb est une nouvelle rubrique
+Employe	EmployeActif	RUB+		EmployeActif est une nouvelle rubrique
+Employe	TypeContrat	RUB+		TypeContrat est une nouvelle rubrique
+Employe	DateNais	RUB+		DateNais est une nouvelle rubrique
+Employe	Echelon	RUB+		Echelon est une nouvelle rubrique
+Employe	Echelle	RUB+		Echelle est une nouvelle rubrique
+Employe	DatePrevueEchelle	RUB+		DatePrevueEchelle est une nouvelle rubrique
+Employe	DatePrevueEchelon	RUB+		DatePrevueEchelon est une nouvelle rubrique
+Employe	IDPoste	RUB+		IDPoste est une nouvelle clé
+Employe	tel	RUB-		la rubrique tel est supprimée
+Employe	email	RUB-		la rubrique email est supprimée
+Employe_direction		NFI		nouveau fichier
+Sanction		NFI		nouveau fichier
+Sanction_Employe		NFI		nouveau fichier
+CessationTemp		NFI		nouveau fichier
+Poste		NFI		nouveau fichier
+Employe_direction		FIC-	Employe_direction	Fichier supprimé Employe_direction
+Contrainte_direction_Employe		NWL	direction (IDdirection) et Employe_direction (IDdirection)	Nouvelle liaison entre les fichiers direction (IDdirection) et Employe_direction (IDdirection)
+Contrainte_Employe_direction		NWL	Employe (IDEmploye) et Employe_direction (IDEmploye)	Nouvelle liaison entre les fichiers Employe (IDEmploye) et Employe_direction (IDEmploye)
+Contrainte_Sanction_Employe		NWL	Sanction (IDSanction) et Sanction_Employe (IDSanction)	Nouvelle liaison entre les fichiers Sanction (IDSanction) et Sanction_Employe (IDSanction)
+Contrainte_Employe_Sanction		NWL	Employe (IDEmploye) et Sanction_Employe (IDEmploye)	Nouvelle liaison entre les fichiers Employe (IDEmploye) et Sanction_Employe (IDEmploye)
+Contrainte_CessationTemp_Employe		NWL	Employe (IDEmploye) et CessationTemp (IDEmploye)	Nouvelle liaison entre les fichiers Employe (IDEmploye) et CessationTemp (IDEmploye)
+Contrainte_Poste_Employe		NWL	Poste (IDPoste) et Employe (IDPoste)	Nouvelle liaison entre les fichiers Poste (IDPoste) et Employe (IDPoste)
+Contrainte_Employe_direction		DEL	Employe (IDEmploye) et Employe_direction (IDEmploye)	Liaison supprimée entre les fichiers Employe (IDEmploye) et Employe_direction (IDEmploye)
+Contrainte_direction_Employe		DEL	direction (IDdirection) et Employe_direction (IDdirection)	Liaison supprimée entre les fichiers direction (IDdirection) et Employe_direction (IDdirection)

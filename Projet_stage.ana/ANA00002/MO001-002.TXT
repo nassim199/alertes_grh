@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+direction		NFI		nouveau fichier
+Employe_direction		NFI		nouveau fichier
+Contrainte_Employe_direction		NWL	Employe (IDEmploye) et Employe_direction (IDEmploye)	Nouvelle liaison entre les fichiers Employe (IDEmploye) et Employe_direction (IDEmploye)
+Contrainte_direction_Employe		NWL	direction (IDdirection) et Employe_direction (IDdirection)	Nouvelle liaison entre les fichiers direction (IDdirection) et Employe_direction (IDdirection)
