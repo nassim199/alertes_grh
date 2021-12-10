@@ -24,3 +24,26 @@ L'outil a été developpé en utilisant la technologie Windev (version 24), qui 
 
 Voici plusiers captures d'interfaces de l'outil ou toutes fonctionnalités sont presentées (A noter biensur que l'echantillon des employes etait generique et fictif, qui etait mis juste dans le but de tester l'application):
 
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/accueil.PNG?raw=true) 
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/ajouter_employe.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/alertes.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/imprimer.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/modifier.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/modifier2.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/modifier3.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/sanction.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/sanction2.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/sanction3.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/cessation.PNG?raw=true)
+
+![alt text](https://github.com/nassim199/alertes_grh/blob/main/caputres_interface/cessation2.PNG?raw=true)
